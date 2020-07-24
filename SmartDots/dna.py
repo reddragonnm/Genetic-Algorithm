@@ -1,4 +1,5 @@
 # This is the smart dots file!
+# another comment
 
 import pygame as pg
 import random
